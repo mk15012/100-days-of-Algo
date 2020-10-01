@@ -1,4 +1,5 @@
 // CPP program to construct a linked list from  2D matrix 
+//Studied from gfg 
 #include <bits/stdc++.h> 
 using namespace std; 
  
